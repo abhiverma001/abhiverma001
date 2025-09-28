@@ -34,7 +34,7 @@ const abhiverma001 = {
         databases: ["mongo", "MySql", "dynamo", "redshift"],
         operating-systems: ["Windows", "Linux"],
     },
-    currentFocus: "Exploring kubernetes componetes in dept",
+    currentFocus: "Learning Python",
     funFact: "There are two ways to write error-free terraform code; only the third one works"
 };
 ```
