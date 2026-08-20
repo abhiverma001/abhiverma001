@@ -43,9 +43,9 @@ const abhiverma001 = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C059%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C061%20hrs%2018%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -55,32 +55,32 @@ const abhiverma001 = {
 
 > 📦 371.1 kB Used in GitHub's Storage 
  > 
-> 🏆 24 Contributions in the Year 2026
+> 🏆 26 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 24 Public Repositories 
+> 📜 25 Public Repositories 
  > 
 > 🔑 9 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-🌆 Daytime                214 commits         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
-🌃 Evening                368 commits         ████████░░░░░░░░░░░░░░░░░   31.86 % 
-🌙 Night                  514 commits         ███████████░░░░░░░░░░░░░░   44.50 % 
+🌞 Morning                59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+🌆 Daytime                214 commits         █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+🌃 Evening                368 commits         ████████░░░░░░░░░░░░░░░░░   31.83 % 
+🌙 Night                  515 commits         ███████████░░░░░░░░░░░░░░   44.55 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Tuesday                  132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Wednesday                109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Thursday                 125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Friday                   202 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-Saturday                 102 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Sunday                   430 commits         █████████░░░░░░░░░░░░░░░░   37.23 % 
+Tuesday                  132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Wednesday                109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Thursday                 126 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Friday                   202 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+Saturday                 102 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Sunday                   430 commits         █████████░░░░░░░░░░░░░░░░   37.20 % 
 ```
 
 
@@ -90,42 +90,42 @@ Sunday                   430 commits         █████████░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    11 hrs 36 mins      ███████████████████░░░░░░   75.74 % 
-Terraform                2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-YAML                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Other                    11 hrs 31 mins      ██████████████████░░░░░░░   71.11 % 
+Terraform                3 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+YAML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 🔥 Editors: 
-Chrome                   7 hrs 40 mins       █████████████░░░░░░░░░░░░   50.07 % 
-Agent                    3 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
-Cursor                   2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-Edge                     1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Chrome                   6 hrs 59 mins       ███████████░░░░░░░░░░░░░░   43.10 % 
+Agent                    4 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+Cursor                   3 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+Edge                     1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
 
 💻 Operating System: 
-Windows                  9 hrs 24 mins       ███████████████░░░░░░░░░░   61.43 % 
-WSL                      5 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   38.57 % 
+Windows                  8 hrs 43 mins       █████████████░░░░░░░░░░░░   53.83 % 
+WSL                      7 hrs 29 mins       ████████████░░░░░░░░░░░░░   46.17 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 1 min (32.8%)
+⏱ AI Coding Time: 6 hrs 21 mins (39.2%)
 
-✍️ 0 lines written by AI, 89 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 104 lines written by hand (0.0% AI-written)
 
-🔤 814,503 Input Tokens, 814,503 Output Tokens
+🔤 924,995 Input Tokens, 924,995 Output Tokens
 
-💵 $14.66 Estimated AI Cost This Week
+💵 $16.65 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 162 AI Prompts
+🧠 22 AI Sessions, 229 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 20,113 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📚 Verbose Prompter — average 16,159 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -142,7 +142,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 00:45:58 UTC
+ Last Updated on 20/08/2026 00:46:09 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated by github action**
